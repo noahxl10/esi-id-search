@@ -2,6 +2,10 @@
 
 ## 2026-05-22
 
+- Add event trigger for sqlite refresh post daily import job
+
+## 2026-05-22
+
 - Add full binary address->token->index pairing load into memory + hot search
 
 ## 2026-05-21
