@@ -2,6 +2,10 @@
 
 ## 2026-05-21
 
+- Review staging PRs before main
+
+## 2026-05-21
+
 - Add automated dev PR review
 
 ## 2026-05-15 to 2026-05-21
