@@ -1,5 +1,9 @@
 # Development Log
 
+## 2026-05-22
+
+- Add full binary address->token->index pairing load into memory + hot search
+
 ## 2026-05-21
 
 - Review staging PRs before main
