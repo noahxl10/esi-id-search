@@ -1,5 +1,9 @@
 # Development Log
 
+## 2026-05-21
+
+- Add automated dev PR review
+
 ## 2026-05-15 to 2026-05-21
 
 This week focused on making ESI/address lookup faster, more reliable, and easier to operate in production.
