@@ -2,6 +2,10 @@
 
 ## 2026-05-22
 
+- Fix map bugs add arrow key + enter on address hot search dropdown
+
+## 2026-05-22
+
 - Add event trigger for sqlite refresh post daily import job
 
 ## 2026-05-22
