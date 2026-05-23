@@ -2,6 +2,10 @@
 
 ## 2026-05-22
 
+- Update de-energized status from green to orange
+
+## 2026-05-22
+
 - Add range search + additional login links
 
 ## 2026-05-22
