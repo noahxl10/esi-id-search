@@ -2,6 +2,10 @@
 
 ## 2026-05-22
 
+- Add range search + additional login links
+
+## 2026-05-22
+
 - Add provider login map + button
 
 ## 2026-05-22
