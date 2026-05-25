@@ -2,6 +2,10 @@
 
 ## 2026-05-24
 
+- Reduce search roundtrip with a generous limit assumption:
+
+## 2026-05-24
+
 - Update direct esi id search path, store full current records in mem with bit references to mapped premises, meter, status and tdu vals
 
 ## 2026-05-22
