@@ -1,5 +1,9 @@
 # Development Log
 
+## 2026-05-24
+
+- Update direct esi id search path, store full current records in mem with bit references to mapped premises, meter, status and tdu vals
+
 ## 2026-05-22
 
 - Update de-energized status from green to orange
