@@ -1,5 +1,26 @@
 # Development Log
 
+## 2026-06-05
+
+- Update subscription details
+- package.json updates yay
+
+## 2026-06-04
+
+- Redesign UI
+
+## 2026-05-27
+
+- Update billing page details + stripe subs
+- Update pricing, adjust frontend, add more rigorous deployment process
+- Degrade gracefully when address artifact is missing
+- Update sub
+
+## 2026-05-26
+
+- Rebase on main + add new subscriptions, team based steats, and improved phone device auth
+- Add expiration directly into phone auth code for quick verification on frontend
+
 ## 2026-05-24
 
 - Reduce search roundtrip with a generous limit assumption:
