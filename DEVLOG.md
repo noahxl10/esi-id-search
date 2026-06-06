@@ -1,5 +1,9 @@
 # Development Log
 
+## 2026-06-06
+
+- Update error messages and logs
+
 ## 2026-06-05
 
 - Update subscription details
