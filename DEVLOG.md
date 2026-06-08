@@ -1,5 +1,9 @@
 # Development Log
 
+## 2026-06-08
+
+- Fix subscription boundary bug for users
+
 ## 2026-06-06
 
 - Update error messages and logs
