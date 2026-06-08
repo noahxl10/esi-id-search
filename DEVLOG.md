@@ -2,6 +2,10 @@
 
 ## 2026-06-08
 
+- Update var ref
+
+## 2026-06-08
+
 - Fix subscription boundary bug for users
 
 ## 2026-06-06
