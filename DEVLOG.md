@@ -2,6 +2,10 @@
 
 ## 2026-06-09
 
+- Fix fanout again
+
+## 2026-06-09
+
 - Fix fanout import
 
 ## 2026-06-08
