@@ -1,5 +1,9 @@
 # Development Log
 
+## 2026-06-09
+
+- Fix fanout import
+
 ## 2026-06-08
 
 - Update var ref
