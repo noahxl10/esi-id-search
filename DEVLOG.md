@@ -1,5 +1,11 @@
 # Development Log
 
+## 2026-06-19
+
+- Harden S3 SQLite artifact publishing
+- Slim current record replica artifacts
+- Finalize S3 ERCOT import pipeline
+
 ## 2026-06-18
 
 - Move ERCOT artifacts to S3-only flow
