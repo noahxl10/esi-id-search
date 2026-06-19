@@ -1,5 +1,19 @@
 # Development Log
 
+## 2026-06-18
+
+- Move ERCOT artifacts to S3-only flow
+- Harden ERCOT v2 production flow
+- Remove stale GCS deployment notes
+- Fix ERCOT daily function health path
+- Allow web startup without S3 artifacts
+- Keep health endpoint responsive during address startup
+- Make web health independent of address startup
+- Defer address memory warmup until after listen
+- Avoid blocking web startup on warmups
+- Add production user testing runbook
+- Guard SQLite search fallback
+
 ## 2026-06-09
 
 - Deploy
