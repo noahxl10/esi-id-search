@@ -2,6 +2,10 @@
 
 ## 2026-06-19
 
+- Show new device verification prompt
+
+## 2026-06-19
+
 - Harden S3 SQLite artifact publishing
 - Slim current record replica artifacts
 - Finalize S3 ERCOT import pipeline
