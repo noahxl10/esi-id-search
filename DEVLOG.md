@@ -2,6 +2,13 @@
 
 ## 2026-06-19
 
+- Make daily SQLite refresh current-only
+- Guard daily refresh from artifact publish
+- Recover stale post-daily refresh locks
+- Keep daily refresh off heavy SQLite cleanup
+
+## 2026-06-19
+
 - Show new device verification prompt
 
 ## 2026-06-19
