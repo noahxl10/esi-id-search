@@ -1,5 +1,9 @@
 # Development Log
 
+## 2026-06-26
+
+- Update tab caching, search queries
+
 ## 2026-06-19
 
 - Make daily SQLite refresh current-only
