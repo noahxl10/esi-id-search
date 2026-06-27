@@ -1,5 +1,9 @@
 # Development Log
 
+## 2026-06-27
+
+- Update hot address search in-mem caching: removed address file and kept only token index
+
 ## 2026-06-26
 
 - Add lambda functions for ercot import, postgres upsert, and s3 historical upsert
