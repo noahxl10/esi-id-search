@@ -2,6 +2,10 @@
 
 ## 2026-06-26
 
+- Add lambda functions for ercot import, postgres upsert, and s3 historical upsert
+
+## 2026-06-26
+
 - Update tab caching, search queries
 
 ## 2026-06-19
