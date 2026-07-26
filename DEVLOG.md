@@ -1,5 +1,9 @@
 # Development Log
 
+## 2026-07-25
+
+- Reposition landing page and simplify pricing
+
 ## 2026-06-27
 
 - Update hot address search in-mem caching: removed address file and kept only token index
