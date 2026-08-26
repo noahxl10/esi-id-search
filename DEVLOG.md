@@ -1,5 +1,9 @@
 # Development Log
 
+## 2026-08-26
+
+- Harden production and add guarded AI issue fixes (#3)
+
 ## 2026-07-25
 
 - Reposition landing page and simplify pricing
