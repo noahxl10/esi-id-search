@@ -2,6 +2,10 @@
 
 ## 2026-08-27
 
+- Bump actions/checkout from 4.4.0 to 7.0.1 (#5)
+
+## 2026-08-27
+
 - Add production monitoring and hourly security reviews (#9)
 
 ## 2026-08-27
