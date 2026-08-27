@@ -1,5 +1,9 @@
 # Development Log
 
+## 2026-08-27
+
+- Switch Codex reviews to subscription-backed cloud (#8)
+
 ## 2026-08-26
 
 - Harden production and add guarded AI issue fixes (#3)
