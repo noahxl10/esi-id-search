@@ -2,6 +2,10 @@
 
 ## 2026-08-27
 
+- Add production monitoring and hourly security reviews (#9)
+
+## 2026-08-27
+
 - Switch Codex reviews to subscription-backed cloud (#8)
 
 ## 2026-08-26
