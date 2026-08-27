@@ -2,6 +2,10 @@
 
 ## 2026-08-27
 
+- Simplify importer utilities (#15)
+
+## 2026-08-27
+
 - Run security review daily (#13)
 
 ## 2026-08-27
