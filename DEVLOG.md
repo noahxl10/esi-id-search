@@ -2,6 +2,10 @@
 
 ## 2026-08-27
 
+- Run security review daily (#13)
+
+## 2026-08-27
+
 - Document gated Codex auto-patch flow (#12)
 
 ## 2026-08-27
