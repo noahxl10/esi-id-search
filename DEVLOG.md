@@ -1,5 +1,9 @@
 # Development Log
 
+## 2026-08-28
+
+- Restore compatible device login flow
+
 ## 2026-08-27
 
 - Simplify importer utilities (#15)
