@@ -2,6 +2,10 @@
 
 ## 2026-08-28
 
+- Bound paid plan usage limits (#14)
+
+## 2026-08-28
+
 - Strengthen pull request CI gates (#17)
 
 ## 2026-08-28
