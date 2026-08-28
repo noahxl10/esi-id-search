@@ -2,6 +2,10 @@
 
 ## 2026-08-28
 
+- Isolate staging users on shared data
+
+## 2026-08-28
+
 - Monitor authentication delivery failures
 
 ## 2026-08-28
