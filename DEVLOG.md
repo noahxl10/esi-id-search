@@ -2,6 +2,10 @@
 
 ## 2026-08-28
 
+- Add SaaS legal and consent safeguards
+
+## 2026-08-28
+
 - Add auditable SMS OTP consent flow
 
 ## 2026-08-28
