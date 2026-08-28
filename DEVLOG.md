@@ -2,6 +2,10 @@
 
 ## 2026-08-28
 
+- Add auditable SMS OTP consent flow
+
+## 2026-08-28
+
 - Isolate staging users on shared data
 
 ## 2026-08-28
