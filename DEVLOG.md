@@ -2,6 +2,10 @@
 
 ## 2026-08-28
 
+- Monitor authentication delivery failures
+
+## 2026-08-28
+
 - Restore compatible device login flow
 
 ## 2026-08-27
