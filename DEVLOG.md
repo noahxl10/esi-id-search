@@ -2,6 +2,10 @@
 
 ## 2026-08-28
 
+- Bump typescript from 6.0.3 to 7.0.2 (#6)
+
+## 2026-08-28
+
 - Bump @types/node from 25.9.5 to 26.2.0 (#7)
 
 ## 2026-08-28
