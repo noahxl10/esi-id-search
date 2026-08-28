@@ -2,6 +2,10 @@
 
 ## 2026-08-28
 
+- Strengthen pull request CI gates (#17)
+
+## 2026-08-28
+
 - Add SaaS legal and consent safeguards
 
 ## 2026-08-28
