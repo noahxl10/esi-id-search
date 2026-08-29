@@ -2,6 +2,10 @@
 
 ## 2026-08-28
 
+- Harden staged production releases (#18)
+
+## 2026-08-28
+
 - Bump typescript from 6.0.3 to 7.0.2 (#6)
 
 ## 2026-08-28
