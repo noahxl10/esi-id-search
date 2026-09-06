@@ -1,5 +1,9 @@
 # Development Log
 
+## 2026-09-06
+
+- Update qs to patched 6.16.0 (#27)
+
 ## 2026-08-28
 
 - Harden staged production releases (#18)
