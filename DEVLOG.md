@@ -2,6 +2,10 @@
 
 ## 2026-09-15
 
+- Rate limit password setup mutations (#33)
+
+## 2026-09-15
+
 - Rate limit API key revocations (#32)
 
 ## 2026-09-15
