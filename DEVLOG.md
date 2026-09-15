@@ -2,6 +2,10 @@
 
 ## 2026-09-15
 
+- Rate limit team search sharing (#31)
+
+## 2026-09-15
+
 - Rate limit export preference updates (#30)
 
 ## 2026-09-15
