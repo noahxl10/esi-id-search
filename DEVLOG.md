@@ -2,6 +2,10 @@
 
 ## 2026-09-15
 
+- Rate limit API key revocations (#32)
+
+## 2026-09-15
+
 - Rate limit team search sharing (#31)
 
 ## 2026-09-15
