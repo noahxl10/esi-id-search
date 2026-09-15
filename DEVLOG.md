@@ -1,5 +1,9 @@
 # Development Log
 
+## 2026-09-15
+
+- Rate limit saved list mutations (#29)
+
 ## 2026-09-06
 
 - Fix security boundaries and simplify metered workflows (#28)
