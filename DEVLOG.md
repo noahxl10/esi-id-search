@@ -2,6 +2,10 @@
 
 ## 2026-09-15
 
+- Rate limit export preference updates (#30)
+
+## 2026-09-15
+
 - Rate limit saved list mutations (#29)
 
 ## 2026-09-06
