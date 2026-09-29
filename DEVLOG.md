@@ -1,5 +1,9 @@
 # Development Log
 
+## 2026-09-28
+
+- Optimize city queries and add database workload and backup monitoring (#38)
+
 ## 2026-09-15
 
 - Rate limit password setup mutations (#33)
