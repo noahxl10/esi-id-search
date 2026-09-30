@@ -1,5 +1,9 @@
 # Development Log
 
+## 2026-09-30
+
+- Fix brace-expansion security audit (#40)
+
 ## 2026-09-28
 
 - Optimize city queries and add database workload and backup monitoring (#38)
