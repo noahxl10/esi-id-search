@@ -2,6 +2,10 @@
 
 ## 2026-09-30
 
+- Serve unfiltered search counts from maintained dataset statistics (#41)
+
+## 2026-09-30
+
 - Fix brace-expansion security audit (#40)
 
 ## 2026-09-28
