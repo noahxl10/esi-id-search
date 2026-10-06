@@ -1,5 +1,9 @@
 # Development Log
 
+## 2026-10-06
+
+- Fix newly disclosed dependency vulnerabilities (#44)
+
 ## 2026-09-30
 
 - Serve unfiltered search counts from maintained dataset statistics (#41)
