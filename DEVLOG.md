@@ -1,5 +1,9 @@
 # Development Log
 
+## 2026-11-01
+
+- Resolve dependency security advisories (#48)
+
 ## 2026-10-06
 
 - Fix newly disclosed dependency vulnerabilities (#44)
