@@ -1,5 +1,9 @@
 # Development Log
 
+## 2026-11-10
+
+- Update trusted staging smoke for metered address suggestions (#55)
+
 ## 2026-11-01
 
 - Resolve dependency security advisories (#48)
