@@ -2,6 +2,10 @@
 
 ## 2026-11-10
 
+- Enforce quota before address suggestions and coalesce typing (#45)
+
+## 2026-11-10
+
 - Update trusted staging smoke for metered address suggestions (#55)
 
 ## 2026-11-01
