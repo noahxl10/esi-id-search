@@ -1,5 +1,10 @@
 # Development Log
 
+## 2026-11-11
+
+- Record current-record migrations and hosting discovery
+- Merge pending esiid-search source work into current main
+
 ## 2026-11-10
 
 - Enforce quota before address suggestions and coalesce typing (#45)
